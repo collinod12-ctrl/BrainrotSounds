@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Fahhh
+Died in osrs? FAHHH!
