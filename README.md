@@ -9,7 +9,7 @@ The ['Brainrot Skyrim (silly mods)'](https://www.nexusmods.com/games/skyrimspeci
 
 
 # Acknowledgements
-This project wouldn't be possible without the [C-Engineer Completed](https://github.com/m0bilebtw/c-engineer-completed) teams work. Numerous portions of this project are thanks to their brilliance. 
+This project wouldn't be possible without the [C-Engineer Completed](https://github.com/m0bilebtw/c-engineer-completed) teams work. Numerous portions of this project are only possible thanks to their brilliance. 
 
 # Suggestions?
 Have an idea for a sound you'd like to include? Create an [Issue](https://github.com/collinod12-ctrl/BrainrotSounds/issues) with "Suggestion" somewhere in the title.
