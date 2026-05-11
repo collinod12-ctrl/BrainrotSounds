@@ -5,8 +5,8 @@ This plugin is a passion project coupled with a learning experience. The aim is 
 After not using the Java language for quite some time, I have decided to dip my toes in the water by slowly working through creating a plugin for one of my favorite games of all time.
 
 # Inspiration
-The 'Brainrot Skyrim' mod became viral during 2024, providing some comical clips and inspired me to create a similar effect in RuneScape.
-That being said, I am more than open to suggestions for other things to add to further the brainrotification of our favorite MMORPG.
+The ['Brainrot Skyrim (silly mods)'](https://www.nexusmods.com/games/skyrimspecialedition/collections/wfyncv/mods) modpack provided via Nexus Mods became viral during 2024, providing some comical clips and inspired me to create a similar effect in RuneScape.
+
 
 # Acknowledgements
 This project wouldn't be possible without the [C-Engineer Completed](https://github.com/m0bilebtw/c-engineer-completed) teams work. Numerous portions of this project are thanks to their brilliance. 
