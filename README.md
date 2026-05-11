@@ -1,4 +1,4 @@
-# BrainrotSounds
+# Brainrot Sounds
 This plugin is a passion project coupled with a learning experience. The aim is to add some modern comedic relief in the form of popular sound bytes from all over the internet. As of the launch of the plugin the only function it serves is a funny sound on death.
 
 # This Project is Strictly for Fun
