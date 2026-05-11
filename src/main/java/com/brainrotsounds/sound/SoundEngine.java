@@ -34,7 +34,7 @@ public class SoundEngine {
     }
 
     private void playClip(Sound sound) {
-        float gain = 20f * (float) Math.log10(config.soundVolume() / 100f);
+        float gain = 20f * (float) Math.log10(config.announcementVolume() / 100f);
 
         try {
             audioPlayer.play(SoundFileManager.getSoundFile(sound), gain);
